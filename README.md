@@ -2,12 +2,12 @@
 
 ## Setup do Projeto
 ```
-npm install
+yarn install
 ```
 
 ### Ambiente de Desenvolvimento
 ```
-npm run serve
+yarn serve
 ```
 
 #### Configurando a api Fake
